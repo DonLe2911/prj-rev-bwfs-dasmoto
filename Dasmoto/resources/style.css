@@ -1,0 +1,36 @@
+body {
+  font-family: Helvetica;
+}
+
+h1 {
+    background-image: url(\pattern.jpeg);
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.cost {
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
